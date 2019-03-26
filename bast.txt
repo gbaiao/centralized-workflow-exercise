@@ -1,0 +1,8 @@
+I want to share a command I use a lot:
+$ git commit -v
+
+This shows me the code change in the editor where I 
+edit the commit message - this way I don't have to 
+remember variable names, function names etc.
+and I can check that I am not committing some debug 
+code.
